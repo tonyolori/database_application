@@ -1,6 +1,6 @@
 # database_application
 This is an application that allows you to interact with a university database without writing code.
-Yo can:
+You can:
 Vew current Students
 Log in to the system
 Add a new course
