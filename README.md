@@ -1,12 +1,16 @@
-# database_application
-This is an application that allows you to interact with a university database without writing code.
+# Python database application
+# A fully detailed documentation is available in the pdf titled "Database Project Report"
+
+
+This is an application that allows a user to interact with a university database without writing code.
+
 You can:
-Vew current Students
-Log in to the system
-Add a new course
-Add a new teacher
-Add a new student
-Assign courses to instructors (teaching)
+Log in to the system\
+Vew current Students\
+Add a new course\
+Add a new teacher\
+Add a new student\
+Assign courses to instructors (teaching)\
 Assign instructors to students (advisory)
 
-Among other things
+
